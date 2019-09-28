@@ -1,0 +1,1 @@
+export { MainStackNavigator } from './MainStackNavigator';
